@@ -41,3 +41,9 @@ git push origin master
 ### Day 2
 * 오늘은 JavaScript 기본을 배웠다.
 * Function 선언과 활용을 배웠다.
+
+
+### Day 3
+* 오늘은 JavaScript 함수를 학습했다.
+* 콜백함수를 새로 학습했다.
+* 'Git'의 간단한 명령어들의 대해서 학습했다.
